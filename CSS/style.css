@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+body {
+    background-color: rgba(222, 211, 202, 0.66);
+}
+
+.heading {
+    text-align: center;
+}
+
+.recipe-heading {
+    color: rgba(86, 136, 89, 0.784);
+    font-family: 'Orbitron', cursive;
+    font-size: 5rem;
+}
+
+.img {
+    text-align: center;
+    scale: 1,5;
+}
+
+.heading2 {
+text-align: center;
+font-family: 'Orbitron', cursive;
+color: hsla(124, 22%, 50%, 0.77);
+}
+
+.ingredients {
+    text-align: center;
+    border: 1px solid hsla(124, 22%, 50%, 0.77);
+    width: 40%;
+    margin: 0 auto;
+    color: hsla(0, 0%, 34%, 0.844);
+}
+
+.instructions {
+    color: rgba(93, 93, 93, 0.77);
+}
+
+.footer {
+    text-align: center;
+}
